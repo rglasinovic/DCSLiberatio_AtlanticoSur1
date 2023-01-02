@@ -1,0 +1,78 @@
+{
+  "country": "Chile",
+  "name": "Chile 2020",
+  "authors": "Gavilan",
+  "description": "<p>Chile in the 2020s.</p>",
+  "locales": [
+    "en_US"
+  ],
+  "aircrafts": [    
+    "C-130",
+    "C-130J-30 Super Hercules",   
+    "F-16CM Fighting Falcon (Block 50)",
+	"F-5E Tiger II",
+    "C-101CC Aviojet",
+    "UH-1H Iroquois",
+	"UH-60A",
+	"UH-60L"
+	
+  ],
+  "awacs": [    
+    "E-3A"
+  ],
+  "tankers": [
+    "KC-130",
+    "KC-130J",
+    "KC-135 Stratotanker",
+    "KC-135 Stratotanker MPRS"
+  ],
+  "frontline_units": [
+    "Leopard 1A3",
+    "Leopard 2A4",
+	"Marder 1A3",
+    "M113", 
+    "M1043 HMMWV (M2 HMG)",
+    "M1045 HMMWV (BGM-71 TOW)",
+    "M1097 Heavy HMMWV Avenger",
+	"M163 Vulcan Air Defense System"
+  ],
+  "artillery_units": [
+    "M109A6 Paladin",
+    "M270 Multiple Launch Rocket System"
+  ],
+  "logistics_units": [
+    "Truck M818 6x6"
+  ],
+  "infantry_units": [
+    "Infantry M249",
+    "Infantry M4",
+    "MANPADS Stinger",
+    "Mortar 2B11 120mm"
+  ],
+  "preset_groups": [
+    "NASAMS AIM-120C"
+  ],
+  "naval_units": [
+    "FFG Oliver Hazard Perry",
+	"HMS Achilles (F12)",
+	"HMS Andromeda (F57)",
+	"HMS Ariadne (F72)"
+  ],
+  "missiles": [],
+  "air_defense_units": [
+    "M1097 Heavy HMMWV Avenger",
+	"M163 Vulcan Air Defense System",
+	"Bofors 40 mm Gun"
+  ],
+  "requirements": {},
+  "carrier_names": [],
+  "helicopter_carrier_names": [],
+  "has_jtac": false,
+  "liveries_overrides": {
+    "F-16CM Fighting Falcon (Block 50)": [
+      "Chile Air Force 732",
+	  "Chile Air Force 746",
+	  "Chile Air Force 851"
+	  ]	      
+  }
+}

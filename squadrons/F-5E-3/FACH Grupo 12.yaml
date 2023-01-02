@@ -1,0 +1,17 @@
+---
+name: FACH Grupo 12
+nickname: Grupo3
+female_pilot_percentage: 6
+country: Chile
+role: Strike Fighter
+aircraft: F-5E Tiger II
+livery: Chilean Air Force 806 (Dark)
+mission_types:
+  - BAI
+  - BARCAP
+  - CAS
+  - DEAD
+  - Escort
+  - Intercept
+  - OCA/Runway
+  - Strike

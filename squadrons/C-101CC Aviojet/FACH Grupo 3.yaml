@@ -1,0 +1,14 @@
+---
+name: FACH Grupo 1
+nickname: Grupo1
+female_pilot_percentage: 6
+country: Chile
+role: Strike Fighter
+aircraft: C-101CC Aviojet
+livery: I Brigada Aerea - Grupo de Aviacion N.1 A-36 HALCON
+mission_types:
+  - BAI
+  - CAS
+  - DEAD
+  - OCA/Runway
+  - Strike
