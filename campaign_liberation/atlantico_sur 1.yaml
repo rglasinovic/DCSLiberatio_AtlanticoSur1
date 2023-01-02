@@ -13,7 +13,7 @@ description:
   is up to the Marines to launch an assault upon Ushaia from an LHA in order to
   disable the bomb production facility. Fortunately, Ushaia is lightly defended as
   the SoW are trying to avoid unwanted attention.</p>
-miz: grabthars_hammer.miz
+miz: atlantico_sur1.miz
 performance: 2
 recommended_start_date: 2000-07-13
 version: "10.5"
@@ -36,18 +36,12 @@ squadrons:
       secondary: air-to-ground
       aircraft:
         - B-1B Lancer
-    - primary: Refueling
-      aircraft:
-        - KC-135 Stratotanker        
-    - primary: AEW&C
-      aircraft:
-        - E-3A
   #San Julian
   11:
     - primary: DEAD
       secondary: any
       aircraft:
-        - F-16CM Fighting Falcon (Block 50)
+        - Su-24M Fencer-D
   #El Calafate
   14:
     - primary: CAS
@@ -64,12 +58,18 @@ squadrons:
   9:
     - primary: BAI
       secondary: air-to-ground
-      aircraft:
-        - Su-24M Fencer-D
+      aircraft:        
+        - F-16CM Fighting Falcon (Block 50)
     - primary: Strike
       secondary: air-to-ground
       aircraft:
-        - Tu-22M3 Backfire-C
+        - F-16CM Fighting Falcon (Block 50)
+    - primary: Refueling
+      aircraft:
+        - KC-135 Stratotanker        
+    - primary: AEW&C
+      aircraft:
+        - E-3A        
   #Ushuaia
   7:
     - primary: Transport
